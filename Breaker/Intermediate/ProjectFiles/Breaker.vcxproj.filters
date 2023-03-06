@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Breaker.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{61BFA768-1159-4F4C-AEF0-BF5622D1FCBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Breaker.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\BreakerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6B18641F-83E8-49B4-BE3E-D2590E5BDB37}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Breaker">
+      <UniqueIdentifier>{223FA9A6-ED49-4E5F-BD0E-F6B57FF37665}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Breaker\BallBound.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\BallBound.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Breaker\BaseBrick.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\BaseBrick.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Breaker\Breaker.Build.cs">
+      <Filter>Source\Breaker</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Breaker\Breaker.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\Breaker.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Breaker\BreakerGameModeBase.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\BreakerGameModeBase.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Breaker\MovingBall.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\MovingBall.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Breaker\Paddle_Controller.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\Paddle_Controller.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Breaker\PlayerPaddle.cpp">
+      <Filter>Source\Breaker</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Breaker\PlayerPaddle.h">
+      <Filter>Source\Breaker</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

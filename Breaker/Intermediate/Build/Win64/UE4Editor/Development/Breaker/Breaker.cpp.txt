@@ -1,0 +1,2 @@
+D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Definitions.Breaker.h
+D:\Zack's Portfolio (up-to-date)\Breaker\Source\Breaker\Breaker.h

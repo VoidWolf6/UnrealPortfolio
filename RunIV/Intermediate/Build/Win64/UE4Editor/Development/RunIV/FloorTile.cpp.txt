@@ -1,0 +1,39 @@
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Definitions.RunIV.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Source\RunIV\FloorTile.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ArrowComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ArrowComponent.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Source\RunIV\BaseObstacle.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Inc\RunIV\BaseObstacle.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Inc\RunIV\FloorTile.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/GameplayStatics.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetSystemLibrary.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetSystemLibrary.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Sound/DialogueTypes.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DialogueTypes.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\GameplayStaticsTypes.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStaticsTypes.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameplayStatics.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Source\RunIV\Runner.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/CharacterMovementReplication.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CharacterMovementReplication.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Inc\RunIV\Runner.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Source\RunIV\RunIVGameModeBase.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Inc\RunIV\RunIVGameModeBase.generated.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Source\RunIV\Coin.h
+D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Inc\RunIV\Coin.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet/KismetMathLibrary.h
+D:\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\KismetMathLibrary.generated.h
+D:\UE_4.27\Engine\Source\Runtime\Engine\Classes\Kismet\KismetMathLibrary.inl

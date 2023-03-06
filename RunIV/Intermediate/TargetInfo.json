@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "RunIV",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\RunIV\\Source\\RunIV.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "RunIVEditor",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\RunIV\\Source\\RunIVEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

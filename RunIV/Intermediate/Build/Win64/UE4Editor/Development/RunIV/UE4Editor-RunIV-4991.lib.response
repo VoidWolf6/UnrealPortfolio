@@ -1,0 +1,25 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RunIV-4991.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\RunIVEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\BaseObstacle.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Coin.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\FloorTile.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunAnimInst.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunIV.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunIVGameModeBase.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Runner.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\BaseObstacle.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Coin.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\FloorTile.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunAnimInst.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunIV.init.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\RunIVGameModeBase.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Runner.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\Default.rc2.res"
+/OUT:"D:\Zack's Portfolio (up-to-date)\RunIV\Intermediate\Build\Win64\UE4Editor\Development\RunIV\UE4Editor-RunIV-4991.lib"

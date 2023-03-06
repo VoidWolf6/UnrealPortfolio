@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Breaker-5131.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\BreakerEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\BaseBrick.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Breaker.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\BreakerGameModeBase.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\MovingBall.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Paddle_Controller.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\PlayerPaddle.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\BaseBrick.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Breaker.init.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\BreakerGameModeBase.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\MovingBall.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Paddle_Controller.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\PlayerPaddle.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\Default.rc2.res"
+/OUT:"D:\Zack's Portfolio (up-to-date)\Breaker\Intermediate\Build\Win64\UE4Editor\Development\Breaker\UE4Editor-Breaker-5131.lib"

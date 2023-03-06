@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Breaker",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\Breaker\\Source\\Breaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BreakerEditor",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\Breaker\\Source\\BreakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

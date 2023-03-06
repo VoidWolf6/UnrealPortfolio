@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\RunIV.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{28C8DD03-FA03-4A6A-ABC8-80CDA2F8BB1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\RunIV.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\RunIVEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{1B5F797B-32D7-4947-90F3-94A52C4D0C1B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\RunIV">
+      <UniqueIdentifier>{DAA1FA42-08EE-47E8-B10E-714DDAB70EAF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\RunIV\BaseObstacle.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\BaseObstacle.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunIV\Coin.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\Coin.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunIV\FloorTile.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\FloorTile.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunIV\RunAnimInst.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\RunAnimInst.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\RunIV\RunIV.Build.cs">
+      <Filter>Source\RunIV</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\RunIV\RunIV.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\RunIV.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunIV\RunIVGameModeBase.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\RunIVGameModeBase.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\RunIV\Runner.cpp">
+      <Filter>Source\RunIV</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\RunIV\Runner.h">
+      <Filter>Source\RunIV</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
