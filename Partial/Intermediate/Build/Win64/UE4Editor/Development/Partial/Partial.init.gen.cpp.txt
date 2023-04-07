@@ -1,0 +1,3 @@
+D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Definitions.Partial.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

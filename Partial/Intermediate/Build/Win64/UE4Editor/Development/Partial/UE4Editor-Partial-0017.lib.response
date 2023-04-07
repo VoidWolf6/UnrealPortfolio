@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Partial-0017.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\PartialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\MyNewCharacter.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Partial.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\PartialCharacter.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\PartialGameMode.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Partial_GameMode.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\MyNewCharacter.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Partial.init.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\PartialCharacter.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\PartialGameMode.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Partial_GameMode.gen.cpp.obj"
+"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Default.rc2.res"
+/OUT:"D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\UE4Editor-Partial-0017.lib"

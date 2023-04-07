@@ -1,0 +1,2 @@
+D:\Zack's Portfolio (up-to-date)\Partial\Intermediate\Build\Win64\UE4Editor\Development\Partial\Definitions.Partial.h
+D:\Zack's Portfolio (up-to-date)\Partial\Source\Partial\Partial.h

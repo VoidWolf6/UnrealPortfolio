@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Partial",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\Partial\\Source\\Partial.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PartialEditor",
+			"Path": "D:\\Zack's Portfolio (up-to-date)\\Partial\\Source\\PartialEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
